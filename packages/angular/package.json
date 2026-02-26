@@ -38,7 +38,7 @@
     "serve:ssr:angular": "node dist/server/server.mjs"
   },
   "dependencies": {
-    "@angular/ssr": "^18.0.7",
+    "@angular/ssr": "^21.2.0",
     "@builder.io/sdk": "^5.0.0",
     "express": "^4.18.2"
   },
@@ -48,8 +48,8 @@
     "zone.js": "0.14.x"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "18.2.14",
-    "@angular/cli": "18.0.7",
+    "@angular-devkit/build-angular": "21.2.0",
+    "@angular/cli": "21.2.0",
     "@angular/common": "18.0.6",
     "@angular/compiler-cli": "18.0.6",
     "@angular/core": "18.0.6",

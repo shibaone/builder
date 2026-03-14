@@ -696,55 +696,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/compiler@npm:^16.2.0":
-  version: 16.2.12
-  resolution: "@angular/compiler@npm:16.2.12"
+"@angular/compiler@npm:^19.2.18":
+  version: 19.2.20
+  resolution: "@angular/compiler@npm:19.2.20"
   dependencies:
     tslib: ^2.3.0
-  peerDependencies:
-    "@angular/core": 16.2.12
-  peerDependenciesMeta:
-    "@angular/core":
-      optional: true
-  checksum: 061903d04445acae39fb85048952a5451c3c2a198d0b55541afdc943e0cb5de3b7164c1efa4d9d2c3d92dba2dbf3143150f72449230d48074562e1c1be6f0108
+  checksum: ef69b61d0acc8c5f023c567bfb0623f164738639a43723086c7c4d828620a176448ba5d1a4089ec264264bca8ff182fec4f1b0fb73753c8093f238bd256ce69d
   languageName: node
   linkType: hard
 
-"@angular/compiler@npm:^19.0.0":
-  version: 19.0.5
-  resolution: "@angular/compiler@npm:19.0.5"
-  dependencies:
-    tslib: ^2.3.0
-  peerDependencies:
-    "@angular/core": 19.0.5
-  peerDependenciesMeta:
-    "@angular/core":
-      optional: true
-  checksum: 112335191b2e08b345be8b3db113df2db37b2b256c5574843d498a0f59bce22f9762fb8d5506b0bbbcec659d75e0f15c0353e64e34b8731a0b2f374099f66e6c
-  languageName: node
-  linkType: hard
-
-"@angular/core@npm:^16.2.0":
-  version: 16.2.12
-  resolution: "@angular/core@npm:16.2.12"
-  dependencies:
-    tslib: ^2.3.0
-  peerDependencies:
-    rxjs: ^6.5.3 || ^7.4.0
-    zone.js: ~0.13.0
-  checksum: ccbfa810402ee1102fe0e7996e560c21737e07069c17d4ddde740c621d1b5053e1bf757f0fcedc1000b29fe2d6f8a9eee048b521fc3977fc96e948dd317e830f
-  languageName: node
-  linkType: hard
-
-"@angular/core@npm:^19.0.0":
-  version: 19.0.5
-  resolution: "@angular/core@npm:19.0.5"
+"@angular/core@npm:^19.2.20":
+  version: 19.2.20
+  resolution: "@angular/core@npm:19.2.20"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
     rxjs: ^6.5.3 || ^7.4.0
     zone.js: ~0.15.0
-  checksum: 691cc5d8fe06a8c73b7fbbf96382d4f198b3d7af55b25517276cdc5ef470f7f47b8c7e360accfc1735facff525c18c1aa9f9179192e2f219477afb19868c783e
+  checksum: efb620a264ca2ae1f9e149c3d73d5f2323c10d036327b8d81513239f2d53dd3ec13a32f32ddad1ccb8d34b890ddbff98771f80bb73e339effc5edec0725bfa07
   languageName: node
   linkType: hard
 
@@ -5774,9 +5743,9 @@ __metadata:
     "@angular/animations": ^16.2.0
     "@angular/cli": ^16.2.12
     "@angular/common": ^16.2.0
-    "@angular/compiler": ^16.2.0
+    "@angular/compiler": ^19.2.18
     "@angular/compiler-cli": ^16.2.0
-    "@angular/core": ^16.2.0
+    "@angular/core": ^19.2.20
     "@angular/forms": ^16.2.0
     "@angular/platform-browser": ^16.2.0
     "@angular/platform-browser-dynamic": ^16.2.0
@@ -6413,9 +6382,9 @@ __metadata:
     "@angular/animations": ^16.2.0
     "@angular/cli": ^16.2.12
     "@angular/common": ^16.2.0
-    "@angular/compiler": ^16.2.0
+    "@angular/compiler": ^19.2.18
     "@angular/compiler-cli": ^16.2.0
-    "@angular/core": ^16.2.0
+    "@angular/core": ^19.2.20
     "@angular/forms": ^16.2.0
     "@angular/platform-browser": ^16.2.0
     "@angular/platform-browser-dynamic": ^16.2.0
@@ -6451,9 +6420,9 @@ __metadata:
     "@angular/animations": ^16.2.0
     "@angular/cli": ^16.2.12
     "@angular/common": ^16.2.0
-    "@angular/compiler": ^16.2.0
+    "@angular/compiler": ^19.2.18
     "@angular/compiler-cli": ^16.2.0
-    "@angular/core": ^16.2.0
+    "@angular/core": ^19.2.20
     "@angular/forms": ^16.2.0
     "@angular/platform-browser": ^16.2.0
     "@angular/platform-browser-dynamic": ^16.2.0
@@ -6482,9 +6451,9 @@ __metadata:
     "@angular/animations": ^19.0.0
     "@angular/cli": ^19.0.6
     "@angular/common": ^19.0.0
-    "@angular/compiler": ^19.0.0
+    "@angular/compiler": ^19.2.18
     "@angular/compiler-cli": ^19.0.0
-    "@angular/core": ^19.0.0
+    "@angular/core": ^19.2.20
     "@angular/forms": ^19.0.0
     "@angular/platform-browser": ^19.0.0
     "@angular/platform-browser-dynamic": ^19.0.0
@@ -17847,9 +17816,9 @@ __metadata:
     "@angular/animations": ^16.2.0
     "@angular/cli": ^16.2.12
     "@angular/common": ^16.2.0
-    "@angular/compiler": ^16.2.0
+    "@angular/compiler": ^19.2.18
     "@angular/compiler-cli": ^16.2.0
-    "@angular/core": ^16.2.0
+    "@angular/core": ^19.2.20
     "@angular/forms": ^16.2.0
     "@angular/platform-browser": ^16.2.0
     "@angular/platform-browser-dynamic": ^16.2.0
@@ -17884,9 +17853,9 @@ __metadata:
     "@angular/animations": ^16.2.0
     "@angular/cli": ^16.2.12
     "@angular/common": ^16.2.0
-    "@angular/compiler": ^16.2.0
+    "@angular/compiler": ^19.2.18
     "@angular/compiler-cli": ^16.2.0
-    "@angular/core": ^16.2.0
+    "@angular/core": ^19.2.20
     "@angular/forms": ^16.2.0
     "@angular/platform-browser": ^16.2.0
     "@angular/platform-browser-dynamic": ^16.2.0
@@ -28941,20 +28910,13 @@ __metadata:
   linkType: hard
 
 "devalue@npm:^4.3.1, devalue@npm:^4.3.2":
-  version: 4.3.2
-  resolution: "devalue@npm:4.3.2"
-  checksum: 034530e3910a096e528ca6481cd80ab2a21f4a5b813fb896d421eadf52dc969dfbbd5677aa06d28a6448a0f2f7e7d91d9ed88cd9aaa497f4b34e427d80c2a8a5
+  version: 4.3.3
+  resolution: "devalue@npm:4.3.3"
+  checksum: 6fbc35d3ff7d815338b833cfdf72fd8c416fa41e14258903c8113876c744d84fe86e05d8fc14ff5c530770c3595e1718fb1efca6917288c473cb138496cb10dc
   languageName: node
   linkType: hard
 
-"devalue@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "devalue@npm:5.0.0"
-  checksum: 63723e194f3f17567e3436e63acf41ea286c87f1dc8c51b2e0cd39ee895d84ea10a1c593c862596ae22af732e2ca76f5401ec66de2547e5dd0dbd889fad38c30
-  languageName: node
-  linkType: hard
-
-"devalue@npm:^5.1.0":
+"devalue@npm:^5.0.0, devalue@npm:^5.1.0":
   version: 5.1.1
   resolution: "devalue@npm:5.1.1"
   checksum: 3b6a655e97b59b528d68f89d644b4bd7be9cd502e49ed9ae990caac56b93dc015790e2d099f264b1533d7235e14ec9513e92a7bc1b5031d355064bb37dcc99ca
@@ -34360,24 +34322,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flatted@npm:^3.2.7":
-  version: 3.3.1
-  resolution: "flatted@npm:3.3.1"
-  checksum: 85ae7181650bb728c221e7644cbc9f4bf28bc556f2fc89bb21266962bdf0ce1029cc7acc44bb646cd469d9baac7c317f64e841c4c4c00516afa97320cdac7f94
-  languageName: node
-  linkType: hard
-
-"flatted@npm:^3.2.9":
-  version: 3.2.9
-  resolution: "flatted@npm:3.2.9"
-  checksum: f14167fbe26a9d20f6fca8d998e8f1f41df72c8e81f9f2c9d61ed2bea058248f5e1cbd05e7f88c0e5087a6a0b822a1e5e2b446e879f3cfbe0b07ba2d7f80b026
-  languageName: node
-  linkType: hard
-
-"flatted@npm:^3.3.2":
-  version: 3.3.2
-  resolution: "flatted@npm:3.3.2"
-  checksum: ac3c159742e01d0e860a861164bcfd35bb567ccbebb8a0dd041e61cf3c64a435b917dd1e7ed1c380c2ebca85735fb16644485ec33665bc6aafc3b316aa1eed44
+"flatted@npm:^3.2.7, flatted@npm:^3.2.9, flatted@npm:^3.3.2":
+  version: 3.4.1
+  resolution: "flatted@npm:3.4.1"
+  checksum: c98e458fac822c3d6f814e38154f9f5c7aa4b10c259467beda05740596cf9a826754a7a77b840b8ca2926a3e22a6f3a27992f0c673a9dbb4f6ea9f132e9a9db4
   languageName: node
   linkType: hard
 
@@ -56539,7 +56487,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tar@npm:6.2.1, tar@npm:^6.2.1":
+"tar@npm:6.2.1, tar@npm:^6.0.2, tar@npm:^6.0.5, tar@npm:^6.1.11, tar@npm:^6.1.2, tar@npm:^6.2.0, tar@npm:^6.2.1":
   version: 6.2.1
   resolution: "tar@npm:6.2.1"
   dependencies:
@@ -56550,20 +56498,6 @@ __metadata:
     mkdirp: ^1.0.3
     yallist: ^4.0.0
   checksum: f1322768c9741a25356c11373bce918483f40fa9a25c69c59410c8a1247632487edef5fe76c5f12ac51a6356d2f1829e96d2bc34098668a2fc34d76050ac2b6c
-  languageName: node
-  linkType: hard
-
-"tar@npm:^6.0.2, tar@npm:^6.0.5, tar@npm:^6.1.11, tar@npm:^6.1.2, tar@npm:^6.2.0":
-  version: 6.2.0
-  resolution: "tar@npm:6.2.0"
-  dependencies:
-    chownr: ^2.0.0
-    fs-minipass: ^2.0.0
-    minipass: ^5.0.0
-    minizlib: ^2.1.1
-    mkdirp: ^1.0.3
-    yallist: ^4.0.0
-  checksum: db4d9fe74a2082c3a5016630092c54c8375ff3b280186938cfd104f2e089c4fd9bad58688ef6be9cf186a889671bf355c7cda38f09bbf60604b281715ca57f5c
   languageName: node
   linkType: hard
 

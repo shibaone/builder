@@ -29,8 +29,8 @@
   },
   "devDependencies": {
     "@builder.io/dev-tools": "^0.0.7",
-    "@builder.io/qwik": "^1.11.0",
-    "@builder.io/qwik-city": "^1.11.0",
+    "@builder.io/qwik": "^1.19.2",
+    "@builder.io/qwik-city": "^1.19.2",
     "@builder.io/sdk-qwik": "^0.14.31",
     "@types/eslint": "^8.56.6",
     "@types/node": "^20.11.30",
@@ -42,7 +42,7 @@
     "typescript": "5.3.3",
     "undici": "*",
     "vercel": "^29.1.1",
-    "vite": "^5.4.14",
+    "vite": "^8.0.8",
     "vite-tsconfig-paths": "^4.2.1"
   }
 }

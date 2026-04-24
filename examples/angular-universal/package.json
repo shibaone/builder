@@ -22,7 +22,7 @@
     "@angular/forms": "^13.2.0",
     "@angular/platform-browser": "^13.2.0",
     "@angular/platform-browser-dynamic": "^13.2.0",
-    "@angular/platform-server": "^13.2.0",
+    "@angular/platform-server": "^19.2.21",
     "@angular/router": "^13.2.0",
     "@builder.io/angular": "2.0.2",
     "@nguniversal/express-engine": "^13.0.2",
